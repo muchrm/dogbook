@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>ALL BREED</string>
+	<string>Affenpinscher</string>
+	<string>Afghan Hound</string>
+	<string>Ainu Dog</string>
+	<string>Airedale Terrier</string>
+	<string>Akita</string>
+	<string>Alaskan Malamute</string>
+	<string>American Bulldog</string>
+	<string>American Cocker Spaniel</string>
+	<string>American Eskimo Dog</string>
+	<string>American Foxhound</string>
+	<string>American Staffordshire Terrier</string>
+	<string>American Water Spaniel</string>
+	<string>Anatolian Shepherd Dog</string>
+	<string>Anglo-French Hound</string>
+	<string>Appenzell Mountain Dog</string>
+	<string>Ariegeois</string>
+	<string>Armant</string>
+	<string>Artois Hound</string>
+	<string>Atlas Dog</string>
+	<string>Atlas Terrier</string>
+	<string>Australian Cattle Dog</string>
+	<string>Australian Kelpie</string>
+	<string>Australian Shepherd</string>
+	<string>Australian Silky-Haired Terrier</string>
+	<string>Austrian Hound</string>
+	<string>Austrian Short-Haired Pinscher</string>
+	<string>Auvergne Pointer</string>
+	<string>Balkan Hound</string>
+	<string>Banjara Greyhound</string>
+	<string>Basenji</string>
+	<string>Basset Griffon Vendeen</string>
+	<string>Basset Hound</string>
+	<string>Bassett Artesian Normand</string>
+	<string>Bavarian Mountain Dog</string>
+	<string>Beagle</string>
+	<string>Beagle Harrier</string>
+	<string>Bearded Collie</string>
+	<string>Beauce Shepherd</string>
+	<string>Bedlington Terrier</string>
+	<string>Belgian Malinois</string>
+	<string>Belgian Sheepdog</string>
+	<string>Belgian Tervuren</string>
+	<string>Bergamasco</string>
+	<string>Berger de Bresse</string>
+	<string>Berger de Savoie</string>
+	<string>Berger du Languedoc</string>
+	<string>Bernese Hound</string>
+	<string>Bernese Mountain Dog</string>
+	<string>Bichon Frise</string>
+	<string>Billy</string>
+	<string>Black and Tan Coonhound</string>
+	<string>Black Forest Hound</string>
+	<string>Bloodhound</string>
+	<string>Blue Lacy</string>
+	<string>Bluetick Coonhound</string>
+	<string>Bolognese</string>
+	<string>Border Collie</string>
+	<string>Border Terrier</string>
+	<string>Borzoi</string>
+	<string>Bosnian Rough-Haired Hound</string>
+	<string>Boston Terrier</string>
+	<string>Bouvier des Flanders</string>
+	<string>Boxer</string>
+	<string>Boykin Spaniel</string>
+	<string>Braque du Bourbonnais Setter</string>
+	<string>Brazilian Mastiff</string>
+	<string>Brazilian Terrier</string>
+	<string>Briard</string>
+	<string>Briquet Griffon Vendeen</string>
+	<string>Brittany</string>
+	<string>Broholmer</string>
+	<string>Bruno Jura Hound</string>
+	<string>Brussels Griffon</string>
+	<string>Bull Terrier</string>
+	<string>Bulldog</string>
+	<string>Bullmastiff</string>
+	<string>Cairn Terrier</string>
+	<string>Canaan Dog</string>
+	<string>Cane Corso</string>
+	<string>Cardigan Welsh Corgi</string>
+	<string>Carolina Dog</string>
+	<string>Catahoula Leopard</string>
+	<string>Catalonian Shepherd</string>
+	<string>Cavalier King Charles Spaniel</string>
+	<string>Cesky Terrier</string>
+	<string>Charplaninatz</string>
+	<string>Chesapeake Bay Retriever</string>
+	<string>Chihuahua</string>
+	<string>Chinese Crested Dog</string>
+	<string>Chinook</string>
+	<string>Chow Chow</string>
+	<string>Clumber Spaniel</string>
+	<string>Cockapoo</string>
+	<string>Cocker Spaniel</string>
+	<string>Collie</string>
+	<string>Coton de Tulear</string>
+	<string>Curly-Coated Retriever</string>
+	<string>Dachsbracke</string>
+	<string>Dachshund</string>
+	<string>Dalmatian</string>
+	<string>Dandie Dinmont</string>
+	<string>Deerhound</string>
+	<string>Deutsche Wachtelhund</string>
+	<string>Dingo</string>
+	<string>Doberman</string>
+	<string>Dogo Argentino</string>
+	<string>Dogue De Bordeaux</string>
+	<string>Drentsche Patrijshond</string>
+	<string>Drever</string>
+	<string>Dunker</string>
+	<string>Dupuy Setter</string>
+	<string>Dutch Shepherd</string>
+	<string>Dutch Waterfowl Dog</string>
+	<string>East Siberian Laika</string>
+	<string>Elkhound</string>
+	<string>English Bulldog</string>
+	<string>English Cocker Spaniel</string>
+	<string>English Coonhound</string>
+	<string>English Foxhound</string>
+	<string>English Setter</string>
+	<string>English Shepherd</string>
+	<string>English Springer Spaniel</string>
+	<string>English Toy Spaniel</string>
+	<string>English Toy Terrier</string>
+	<string>Entlebuch Mountain Dog</string>
+	<string>Eskimo Dog</string>
+	<string>Estonian Hound</string>
+	<string>Estrela Mountain Dog</string>
+	<string>Eurasier</string>
+	<string>Feist</string>
+	<string>Field Spaniel</string>
+	<string>Fila</string>
+	<string>Finnish Hound</string>
+	<string>Finnish Spitz</string>
+	<string>Flat-Coated Retriever</string>
+	<string>Fox Terrier</string>
+	<string>French Bulldog</string>
+	<string>French Hounds</string>
+	<string>French Setter</string>
+	<string>French Spaniel</string>
+	<string>Gascons-saintongeois</string>
+	<string>German Pointer</string>
+	<string>German Hunt Terrier</string>
+	<string>German Shepherd</string>
+	<string>German Shorthaired Pointer</string>
+	<string>German Spaniel</string>
+	<string>German Spitz</string>
+	<string>German Spitz</string>
+	<string>German Wirehaired Pointer</string>
+	<string>Giant Schnauzer</string>
+	<string>Glen of Imaal Terrier</string>
+	<string>Golden Cocker Retriever</string>
+	<string>Golden Retriever</string>
+	<string>Gordon Setter</string>
+	<string>Grand Bleu de Gascogne</string>
+	<string>Grand Basset Griffon Vendeen</string>
+	<string>Grand Gascons-Saintongeois</string>
+	<string>Grand Griffon Vendeen</string>
+	<string>Great Dane</string>
+	<string>Great Pyrenees</string>
+	<string>Greater Swiss Mountain Dog</string>
+	<string>Greek Harehound</string>
+	<string>Greenland Dog</string>
+	<string>Greyhound</string>
+	<string>Griffon Nivernais</string>
+	<string>Haldenstovare</string>
+	<string>Hamiltonstovare</string>
+	<string>Hanoverian Hound</string>
+	<string>Harlequin Pinscher</string>
+	<string>Harrier</string>
+	<string>Havanese</string>
+	<string>Hovawart</string>
+	<string>Hungarian Greyhound</string>
+	<string>Hungarian Shorthaired Vizsla</string>
+	<string>Hungarian Wirehaired Vizsla</string>
+	<string>Hygenhund</string>
+	<string>Ibizan Hound</string>
+	<string>Icelandic Sheepdog</string>
+	<string>Irish Setter</string>
+	<string>Irish Terrier</string>
+	<string>Irish Water Spaniel</string>
+	<string>Irish Wolfhound</string>
+	<string>Istrian Hound</string>
+	<string>Italian Greyhound</string>
+	<string>Italian Segugio</string>
+	<string>Italian Setter</string>
+	<string>Italian Spinone</string>
+	<string>Italian Spitz</string>
+	<string>Jack Russell Terrier</string>
+	<string>Jamthund</string>
+	<string>Japanese Chin</string>
+	<string>Japanese Fighting Dog</string>
+	<string>Japanese Kai Ken</string>
+	<string>Japanese Kishu</string>
+	<string>Japanese Spitz</string>
+	<string>Japanese Terrier</string>
+	<string>Jindo</string>
+	<string>Kangaroo Hound</string>
+	<string>Karelian Bear Dog</string>
+	<string>Karst Shepherd</string>
+	<string>Keeshond</string>
+	<string>Kerry Blue Terrier</string>
+	<string>King Charles Spaniel</string>
+	<string>King Shepherd</string>
+	<string>Komondor</string>
+	<string>Kooikerhondje</string>
+	<string>Kromfohrlander</string>
+	<string>Kuvasz</string>
+	<string>Labradoodle</string>
+	<string>Labrador Retriever</string>
+	<string>Lakeland Terrier</string>
+	<string>Lancashire Heeler</string>
+	<string>Lapland Spitz</string>
+	<string>Lapponian Herder</string>
+	<string>Large Munsterlander</string>
+	<string>Leonberger</string>
+	<string>Levesque</string>
+	<string>Lhasa Apso</string>
+	<string>Llewellin Setter</string>
+	<string>Lowchen</string>
+	<string>Lucernese Hound</string>
+	<string>Lundehund</string>
+	<string>Lurcher</string>
+	<string>Majestic Tree Hound</string>
+	<string>Mallorquin Bulldog</string>
+	<string>Maltese</string>
+	<string>Manchester Terrier</string>
+	<string>Maremma Sheepdog</string>
+	<string>Mastiff</string>
+	<string>Mexican Hairless</string>
+	<string>Mi-Ki</string>
+	<string>Miniature Bull Terrier</string>
+	<string>Miniature Dachshund</string>
+	<string>Miniature Pinscher</string>
+	<string>Miniature Poodle</string>
+	<string>Miniature Schnauzer</string>
+	<string>Mixed Dog</string>
+	<string>Mountain Cur</string>
+	<string>Mudi</string>
+	<string>Neapolitan Mastiff</string>
+	<string>New Guinea Singing Dog</string>
+	<string>Newfoundland</string>
+	<string>Norfolk Terrier</string>
+	<string>Norwegian Buhund</string>
+	<string>Norwegian Elkhound</string>
+	<string>Norwich Terrier</string>
+	<string>Nova Scotia Duck-Tolling Retriever</string>
+	<string>Old Danish Pointer</string>
+	<string>Old English Bulldogge</string>
+	<string>Old English Sheepdog</string>
+	<string>Otter Hound</string>
+	<string>Papillon</string>
+	<string>Peekapoo</string>
+	<string>Pekingese</string>
+	<string>Pembroke Welsh Corgi</string>
+	<string>Peruvian Inca Orchid</string>
+	<string>Peruvian Inca Orchid</string>
+	<string>Petit Basset Griffon Vendeen</string>
+	<string>Pharaoh Hound</string>
+	<string>Picardy Shepherd</string>
+	<string>Pinscher</string>
+	<string>Pit Bull</string>
+	<string>Plott Hound</string>
+	<string>Pointer</string>
+	<string>Poitevin</string>
+	<string>Polish Lowland Sheepdog</string>
+	<string>Pomeranian</string>
+	<string>Pont-audemer Spaniel</string>
+	<string>Poodle</string>
+	<string>Porcelaine</string>
+	<string>Portuguese Podengo Grande</string>
+	<string>Portuguese Podengo Medio</string>
+	<string>Portuguese Podengo Pequeno</string>
+	<string>Portuguese Setter</string>
+	<string>Portuguese Water Dog</string>
+	<string>Posavatz Hound</string>
+	<string>Presa Canario</string>
+	<string>Pudlepointer</string>
+	<string>Pug</string>
+	<string>Puli</string>
+	<string>Pumi</string>
+	<string>Pyrenean Mastiff</string>
+	<string>Pyrenean Shepherds</string>
+	<string>Rat Terrier</string>
+	<string>Redbone Coonhound</string>
+	<string>Rhodesian Ridgeback</string>
+	<string>Rottweiler</string>
+	<string>Rough Collie</string>
+	<string>Rumanian Shepherd Dog</string>
+	<string>Russian Hounds</string>
+	<string>Russian Sheepdogs</string>
+	<string>Saint -German Setter</string>
+	<string>Saint Bernard</string>
+	<string>Saluki</string>
+	<string>Samoyed</string>
+	<string>Schapendoes</string>
+	<string>Schiller Hound</string>
+	<string>Schipperke</string>
+	<string>Schnauzer</string>
+	<string>Scottish Deerhound</string>
+	<string>Scottish Terrier</string>
+	<string>Sealyham Terrier</string>
+	<string>Shar-pei</string>
+	<string>Shar-pei Mix</string>
+	<string>Sheltie</string>
+	<string>Shepherd Mix</string>
+	<string>Shiba-Inu</string>
+	<string>Shih Tzu</string>
+	<string>Shiloh Shepherd</string>
+	<string>Siberian Husky</string>
+	<string>Sicilian Hound</string>
+	<string>Silky Terrier</string>
+	<string>Skye Terrier</string>
+	<string>Sloughi</string>
+	<string>Slovakian Kuvasz</string>
+	<string>Smaland Hound</string>
+	<string>Small Blue Gascony Griffon</string>
+	<string>Small Munsterlanders</string>
+	<string>Small-sized French Setter</string>
+	<string>Spanish Greyhound</string>
+	<string>Spanish Hounds</string>
+	<string>Spanish Mastiff</string>
+	<string>Spanish Pointer</string>
+	<string>Springer Spaniel</string>
+	<string>St. Hubert Jura Hound</string>
+	<string>Stabyhoun</string>
+	<string>Staffordshire Bull Terrier</string>
+	<string>Steinbracke</string>
+	<string>Stephens Stock</string>
+	<string>Sussex Spaniel</string>
+	<string>Swedish Vallhund</string>
+	<string>Tahltan Bear Dog</string>
+	<string>Tawny Brittany Bassett</string>
+	<string>Tawny Brittany Griffon</string>
+	<string>Teacup Poodle</string>
+	<string>Teacup Yorkie</string>
+	<string>Telomian</string>
+	<string>Thai Ridgeback</string>
+	<string>Tibetan Mastiff</string>
+	<string>Tibetan Spaniel</string>
+	<string>Tibetan Terrier</string>
+	<string>Toy Fox Terrier</string>
+	<string>Toy Poodle</string>
+	<string>Toy Poodle</string>
+	<string>Transylvanian Hound</string>
+	<string>Treeing Tennessee Brindle</string>
+	<string>Tyrolean Hound</string>
+	<string>Vizsla</string>
+	<string>Walker Hound</string>
+	<string>Weimaraner</string>
+	<string>Welsh Corgi - Cardigan</string>
+	<string>Welsh Corgi - Pembroke</string>
+	<string>Welsh Springer Spaniel</string>
+	<string>Welsh Terrier</string>
+	<string>West Highland Terrier</string>
+	<string>West Siberian Laika</string>
+	<string>Wetterhound</string>
+	<string>Wheaten Terrier</string>
+	<string>Whippet</string>
+	<string>Wire Fox Terrier</string>
+	<string>Wirehaired Pointing Griffin</string>
+	<string>Xolo Miniature</string>
+	<string>Xolo Standard</string>
+</array>
+</plist>

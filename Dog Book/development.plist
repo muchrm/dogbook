@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>age</key>
+		<string>1 สัปดาห์หลังคลอด</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านสังคม</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>age</key>
+		<string>2 สัปดาห์</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>age</key>
+		<string>3 สัปดาห์</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านสังคม</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>age</key>
+		<string>4 - 10 สัปดาห์</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านสังคม</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>age</key>
+		<string>10 สัปดาห์</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านสังคม</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>age</key>
+		<string>12 สัปดาห์ขึ้นไป</string>
+		<key>type</key>
+		<array>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านกล้ามเนื้อ</string>
+			</dict>
+			<dict>
+				<key>list</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>ลืมตา</string>
+						<key>description</key>
+						<string>ปล่อยให้ลูกสุนัขลืมตาขึ้นมาเองเพราะถ้าหากไปพยายามเปิดตาจะทำให้ลูกสุนัขมีอันตรายได้ (กล้ามเนื้อ)</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>คลาน</string>
+						<key>description</key>
+						<string>ต้องให้แม่สุนัขคอยช่วยเหลือ เช่น ดันตูดลูก</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>เดิน</string>
+						<key>description</key>
+						<string>ควรจัดพื้นที่ไว้ให้สุนัขเดิน ควรมีลักษณะเป็นพื้นที่เกาะตัวไม่ลื่น</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>วิ่ง</string>
+						<key>description</key>
+						<string>ควรหาของเล่นให้กับลูกสุนัข เช่น ลูกบอล ขว้างเล่นกับลูกสุนัขจะช่วยให้เขาวิ่งได้</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฟัน</string>
+						<key>description</key>
+						<string>ต้องให้สุนัขกินอาหารสุขภาพ  หากฟันขึ้นแล้วควรแปรงฟันให้ด้วย</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>นั่ง</string>
+						<key>description</key>
+						<string>ควรใช้เสียงในการฝึก เป็นเสียงที่เข้มแข็งและชัดเจน ว่า &quot;นั่ง&quot;</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ฝึกเข้าห้องน้ำ(การช่วยเหลือตนเอง)</string>
+						<key>description</key>
+						<string>พาไปอึ ฉี่นอกบ้านวันละ 6-8 หน หรือทันทีที่ตื่นนอน หลังจากเลิกเล่น 15-30 นาทีหลังกินข้าวใช้คำสั่งกำกับการขับถ่าย ควรให้รางวัลทันทีที่อึเสร็จ</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ทักทาย</string>
+						<key>description</key>
+						<string>เพียงแค่มีอาหารที่สุนัขที่คุณชอบ ก็สามารถฝึกได้แล้ว</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>ยืน 2 ขา</string>
+						<key>description</key>
+						<string>ผู้เลี้ยงถืออาหารหรือขนมไว้แล้วหลอกหล่อสุนัขของคุณในระดับที่สูงกว่าจมูก สุนัขก็จะยันจมูกขึ้นมา หลังจากนั้นก็ทำไปเรื่อยๆจนสุนัขของคุณยืน 2 ขาได้เอง</string>
+					</dict>
+					<dict>
+						<key>name</key>
+						<string>หมอบ</string>
+						<key>description</key>
+						<string>ควรมีสายจูงเป็นเครื่องมือช่วย  หากจะใช้คำสั่งก็ควรใช้คำสั่งเสียงและท่าทางในการออกคำสั่งไปพร้อมๆกัน</string>
+					</dict>
+				</array>
+				<key>name</key>
+				<string>พัฒนาการทางด้านสังคม</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

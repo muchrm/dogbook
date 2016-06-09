@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E50BDA7-E1B6-4B28-B9D5-5111BC3DE297</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dog Book</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A5822B26F1423BD78A5F2E5F8830F55D25559C4</key>
+		<string>https://bitbucket.org/zodiacthai/dog-book.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Dog Book.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A5822B26F1423BD78A5F2E5F8830F55D25559C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/zodiacthai/dog-book.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A5822B26F1423BD78A5F2E5F8830F55D25559C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A5822B26F1423BD78A5F2E5F8830F55D25559C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dog%20Book</string>
+		</dict>
+	</array>
+</dict>
+</plist>

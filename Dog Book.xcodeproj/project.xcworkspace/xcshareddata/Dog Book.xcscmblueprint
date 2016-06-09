@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B252FD5A916AEC16E1D160C7B2E8509B1E2AF164",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1A5822B26F1423BD78A5F2E5F8830F55D25559C4" : 0,
+    "B252FD5A916AEC16E1D160C7B2E8509B1E2AF164" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5E50BDA7-E1B6-4B28-B9D5-5111BC3DE297",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1A5822B26F1423BD78A5F2E5F8830F55D25559C4" : "Dog%20Book",
+    "B252FD5A916AEC16E1D160C7B2E8509B1E2AF164" : "working\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Dog Book",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Dog Book.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/zodiacthai\/dog-book.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A5822B26F1423BD78A5F2E5F8830F55D25559C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/yutthana_yahan\/dogbook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B252FD5A916AEC16E1D160C7B2E8509B1E2AF164"
+    }
+  ]
+}
